@@ -1,19 +1,16 @@
-.text {
-    font-size: 40px;
-    color: black;
-    text-align: center;
+#h3 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+table {
+    max-width: 800px;
 }
 
-.td {
-    padding-bottom: 27%;
+.cine {
+    font-weight: bold;
 }
 
-.headding2,
-.headding3 {
-    display: inline-block;
-}
-
-.headding3,
-.headding4 {
-    opacity: 0.5;
+.text-hour {
+    color: rgb(139, 135, 135);
 }
