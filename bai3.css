@@ -1,11 +1,17 @@
 .nền {
     background-color: aliceblue;
 }
+.center{
+    color :aliceblue
+}
 
 .headding {
     text-align: center;
 }
 
+.white-text {
+    color: white;
+}
 .headding1 {
     background-color: rgb(0, 157, 255);
 }
